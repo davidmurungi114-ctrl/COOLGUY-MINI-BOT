@@ -1,1 +1,13 @@
-{"name":"coolguy-mini","version":"10.0.0","main":"index.js","scripts":{"start":"node index.js"},"dependencies":{"@whiskeysockets/baileys":"^6.7.8","pino":"^8.17.0","qrcode-terminal":"^0.12.0"}}#52A300
+{
+  "name": "coolguy-mini-bot",
+  "version": "1.0.0",
+  "description": "COOLGUY'S MINI WHATSAPP BOT with 8-digit pairing code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.8",
+    "pino": "^8.16.0"
+  }
+}
